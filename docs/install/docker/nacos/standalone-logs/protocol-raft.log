@@ -1,0 +1,8 @@
+2025-11-12 11:09:04,917 INFO Initializes the Raft protocol, raft-config info : {"data":{},"members":["172.18.0.6:7848"],"strictMode":false,"selfMember":"172.18.0.6:7848"}
+
+2025-11-12 11:09:11,968 INFO ========= The raft protocol is starting... =========
+
+2025-11-12 11:09:12,617 INFO ========= The raft protocol start finished... =========
+
+2025-11-12 11:09:13,733 INFO create raft group : naming_persistent_service_v2
+
