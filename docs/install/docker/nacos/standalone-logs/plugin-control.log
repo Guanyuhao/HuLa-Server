@@ -724,3 +724,21 @@
 
 2025-11-12 14:43:09,694 WARN Tps point for CONFIG_PUSH_FAIL registered, But tps control manager is no limit implementation.
 
+2025-11-12 14:47:16,123 INFO Not configure type of control plugin, no limit control for current node.
+
+2025-11-12 14:47:16,141 INFO Load connection metrics collector,size=2,[com.alibaba.nacos.config.server.service.LongPollingConnectionMetricsCollector@d3929ba, com.alibaba.nacos.core.remote.LongConnectionMetricsCollector@d640fe6]
+
+2025-11-12 14:47:16,155 INFO No connection rule content found ,use default empty rule 
+
+2025-11-12 14:47:16,300 INFO No tps control rule of CONFIG_PUSH_COUNT found,content =null  
+
+2025-11-12 14:47:16,304 WARN Tps point for CONFIG_PUSH_COUNT registered, But tps control manager is no limit implementation.
+
+2025-11-12 14:47:16,318 INFO No tps control rule of CONFIG_PUSH_SUCCESS found,content =null  
+
+2025-11-12 14:47:16,321 WARN Tps point for CONFIG_PUSH_SUCCESS registered, But tps control manager is no limit implementation.
+
+2025-11-12 14:47:16,331 INFO No tps control rule of CONFIG_PUSH_FAIL found,content =null  
+
+2025-11-12 14:47:16,336 WARN Tps point for CONFIG_PUSH_FAIL registered, But tps control manager is no limit implementation.
+

@@ -2839,3 +2839,63 @@ Caused by: java.net.SocketTimeoutException: Read timed out
 
 2025-11-12 14:46:40,618 INFO maxContent:10485760
 
+2025-11-12 14:47:18,067 INFO All dump page size is set to 100 according to mem limit 1024 MB
+
+2025-11-12 14:47:18,118 WARN DumpService start
+
+2025-11-12 14:47:18,124 INFO start clear all config-info.
+
+2025-11-12 14:47:18,140 INFO clear all config-info success.
+
+2025-11-12 14:47:18,147 INFO clear all config-info-tenant success.
+
+2025-11-12 14:47:18,176 INFO start dump all config-info...
+
+2025-11-12 14:47:18,187 INFO success to  dump all config-info。
+
+2025-11-12 14:47:18,189 INFO start to clear all gray-config-info on startup.
+
+2025-11-12 14:47:18,189 INFO clear all config-info-gray success.
+
+2025-11-12 14:47:18,199 INFO clear all config-info-gray-tenant success.
+
+2025-11-12 14:47:44,239 INFO notifyConnectTimeout:100
+
+2025-11-12 14:47:44,259 INFO notifySocketTimeout:200
+
+2025-11-12 14:47:44,260 INFO isHealthCheck:true
+
+2025-11-12 14:47:44,266 INFO maxHealthCheckFailCount:12
+
+2025-11-12 14:47:44,267 INFO maxContent:10485760
+
+2025-11-12 14:48:14,140 INFO notifyConnectTimeout:100
+
+2025-11-12 14:48:14,153 INFO notifySocketTimeout:200
+
+2025-11-12 14:48:14,156 INFO isHealthCheck:true
+
+2025-11-12 14:48:14,156 INFO maxHealthCheckFailCount:12
+
+2025-11-12 14:48:14,159 INFO maxContent:10485760
+
+2025-11-12 14:50:23,318 INFO notifyConnectTimeout:100
+
+2025-11-12 14:50:23,346 INFO notifySocketTimeout:200
+
+2025-11-12 14:50:23,350 INFO isHealthCheck:true
+
+2025-11-12 14:50:23,362 INFO maxHealthCheckFailCount:12
+
+2025-11-12 14:50:23,363 INFO maxContent:10485760
+
+2025-11-12 14:52:09,917 INFO notifyConnectTimeout:100
+
+2025-11-12 14:52:09,930 INFO notifySocketTimeout:200
+
+2025-11-12 14:52:09,955 INFO isHealthCheck:true
+
+2025-11-12 14:52:09,956 INFO maxHealthCheckFailCount:12
+
+2025-11-12 14:52:09,965 INFO maxContent:10485760
+

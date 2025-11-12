@@ -180,3 +180,7 @@
 
 2025-11-12 14:43:06,484 INFO [ClusterRpcClientProxy] success to refresh cluster rpc client on start up,members =[] 
 
+2025-11-12 14:47:15,479 INFO Current addressing mode selection : StandaloneMemberLookup
+
+2025-11-12 14:47:15,705 INFO [ClusterRpcClientProxy] success to refresh cluster rpc client on start up,members =[] 
+

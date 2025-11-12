@@ -40,11 +40,14 @@ import java.util.Date;
  *
  * @author yutianbao
  */
-@RequiredArgsConstructor
 public class DisposableWorkerIdAssigner implements WorkerIdAssigner {
     private static final Logger LOGGER = LoggerFactory.getLogger(DisposableWorkerIdAssigner.class);
 
     private final WorkerNodeDao workerNodeDao;
+    
+    public DisposableWorkerIdAssigner(WorkerNodeDao workerNodeDao) {
+        this.workerNodeDao = workerNodeDao;
+    }
 
     /**
      * Assign worker id base on database.<p>

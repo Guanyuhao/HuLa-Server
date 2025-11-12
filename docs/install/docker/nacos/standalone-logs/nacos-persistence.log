@@ -316,3 +316,7 @@ Caused by: java.sql.SQLSyntaxErrorException: Table 'nacos.config_info' doesn't e
 
 2025-11-12 14:45:03,764 ERROR [db-error] master db  down.
 
+2025-11-12 14:47:10,727 WARN [master-db] jdbc:mysql://mysql:3306/nacos?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true&useUnicode=true&useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
+
+2025-11-12 14:48:35,499 WARN [master-db] jdbc:mysql://mysql:3306/nacos?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true&useUnicode=true&useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
+

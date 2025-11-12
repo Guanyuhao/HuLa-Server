@@ -5164,3 +5164,43 @@
 
 2025-11-12 14:45:41,904 INFO Connection check task end
 
+2025-11-12 14:47:16,197 INFO Fail to find connection runtime ejector for name nacos,use default
+
+2025-11-12 14:47:17,204 INFO Connection check task start
+
+2025-11-12 14:47:17,217 INFO Long connection metrics detail ,Total count =0, sdkCount=0,clusterCount=0
+
+2025-11-12 14:47:17,230 INFO Out dated connection ,size=0
+
+2025-11-12 14:47:17,241 INFO Connection check task end
+
+2025-11-12 14:47:19,203 INFO ConnectionMetrics, totalCount = 0, detail = {long_connection=0, long_polling=0}
+
+2025-11-12 14:47:20,645 INFO Connection check task start
+
+2025-11-12 14:47:20,713 INFO Long connection metrics detail ,Total count =0, sdkCount=0,clusterCount=0
+
+2025-11-12 14:47:20,751 INFO Out dated connection ,size=0
+
+2025-11-12 14:47:20,761 INFO Connection check task end
+
+2025-11-12 14:47:22,233 INFO ConnectionMetrics, totalCount = 0, detail = {long_connection=0, long_polling=0}
+
+2025-11-12 14:47:23,767 INFO Connection check task start
+
+2025-11-12 14:47:23,783 INFO Long connection metrics detail ,Total count =0, sdkCount=0,clusterCount=0
+
+2025-11-12 14:47:23,794 INFO Out dated connection ,size=0
+
+2025-11-12 14:47:23,798 INFO Connection check task end
+
+2025-11-12 14:47:25,261 INFO ConnectionMetrics, totalCount = 0, detail = {long_connection=0, long_polling=0}
+
+2025-11-12 14:47:26,803 INFO Connection check task start
+
+2025-11-12 14:47:26,806 INFO Long connection metrics detail ,Total count =0, sdkCount=0,clusterCount=0
+
+2025-11-12 14:47:26,807 INFO Out dated connection ,size=0
+
+2025-11-12 14:47:26,807 INFO Connection check task end
+

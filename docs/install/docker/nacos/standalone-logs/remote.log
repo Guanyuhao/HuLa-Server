@@ -116,3 +116,7 @@
 
 2025-11-12 13:47:27,556 INFO [ClientConnectionEventListenerRegistry] registry listener - ConfigConnectionEventListener
 
+2025-11-12 14:47:18,406 INFO [ClientConnectionEventListenerRegistry] registry listener - ConfigConnectionEventListener
+
+2025-11-12 14:47:20,196 INFO Nacos GrpcSdkServer Rpc server starting at port 9848
+

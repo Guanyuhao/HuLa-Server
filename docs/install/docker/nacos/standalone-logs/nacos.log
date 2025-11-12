@@ -47230,3 +47230,1071 @@ The last packet successfully received from the server was 101,447 milliseconds a
 
 2025-11-12 14:46:55,296 INFO Nacos Server is starting...
 
+2025-11-12 14:46:56,306 INFO Nacos Server is starting...
+
+2025-11-12 14:46:57,384 INFO Nacos Server is starting...
+
+2025-11-12 14:46:58,393 INFO Nacos Server is starting...
+
+2025-11-12 14:46:59,411 INFO Nacos Server is starting...
+
+2025-11-12 14:47:00,501 INFO Nacos Server is starting...
+
+2025-11-12 14:47:01,650 INFO Nacos Server is starting...
+
+2025-11-12 14:47:02,676 INFO Nacos Server is starting...
+
+2025-11-12 14:47:03,684 INFO Nacos Server is starting...
+
+2025-11-12 14:47:04,742 INFO Nacos Server is starting...
+
+2025-11-12 14:47:05,787 INFO Nacos Server is starting...
+
+2025-11-12 14:47:06,833 INFO Nacos Server is starting...
+
+2025-11-12 14:47:07,839 INFO Nacos Server is starting...
+
+2025-11-12 14:47:08,875 INFO Nacos Server is starting...
+
+2025-11-12 14:47:09,071 INFO HikariPool-1 - Starting...
+
+2025-11-12 14:47:09,882 INFO Nacos Server is starting...
+
+2025-11-12 14:47:10,568 INFO HikariPool-1 - Start completed.
+
+2025-11-12 14:47:10,888 INFO Nacos Server is starting...
+
+2025-11-12 14:47:10,913 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigInfoBetaMapperByMySql) datasource(mysql) tableName(config_info_beta) successfully.
+
+2025-11-12 14:47:10,913 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigInfoMapperByMySql) datasource(mysql) tableName(config_info) successfully.
+
+2025-11-12 14:47:10,913 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigInfoTagMapperByMySql) datasource(mysql) tableName(config_info_tag) successfully.
+
+2025-11-12 14:47:10,914 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigInfoGrayMapperByMySql) datasource(mysql) tableName(config_info_gray) successfully.
+
+2025-11-12 14:47:10,914 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigTagsRelationMapperByMySql) datasource(mysql) tableName(config_tags_relation) successfully.
+
+2025-11-12 14:47:10,914 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.HistoryConfigInfoMapperByMySql) datasource(mysql) tableName(his_config_info) successfully.
+
+2025-11-12 14:47:10,914 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.TenantInfoMapperByMySql) datasource(mysql) tableName(tenant_info) successfully.
+
+2025-11-12 14:47:10,914 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.TenantCapacityMapperByMySql) datasource(mysql) tableName(tenant_capacity) successfully.
+
+2025-11-12 14:47:10,914 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.GroupCapacityMapperByMysql) datasource(mysql) tableName(group_capacity) successfully.
+
+2025-11-12 14:47:10,915 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigMigrateMapperByMysql) datasource(mysql) tableName(migrate_config) successfully.
+
+2025-11-12 14:47:10,915 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoBetaMapperByDerby) datasource(derby) tableName(config_info_beta) successfully.
+
+2025-11-12 14:47:10,915 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoMapperByDerby) datasource(derby) tableName(config_info) successfully.
+
+2025-11-12 14:47:10,915 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoTagMapperByDerby) datasource(derby) tableName(config_info_tag) successfully.
+
+2025-11-12 14:47:10,915 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoGrayMapperByDerby) datasource(derby) tableName(config_info_gray) successfully.
+
+2025-11-12 14:47:10,915 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoTagsRelationMapperByDerby) datasource(derby) tableName(config_tags_relation) successfully.
+
+2025-11-12 14:47:10,915 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.HistoryConfigInfoMapperByDerby) datasource(derby) tableName(his_config_info) successfully.
+
+2025-11-12 14:47:10,915 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.TenantInfoMapperByDerby) datasource(derby) tableName(tenant_info) successfully.
+
+2025-11-12 14:47:10,916 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.TenantCapacityMapperByDerby) datasource(derby) tableName(tenant_capacity) successfully.
+
+2025-11-12 14:47:10,916 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.GroupCapacityMapperByDerby) datasource(derby) tableName(group_capacity) successfully.
+
+2025-11-12 14:47:10,916 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigMigrateMapperByDerby) datasource(derby) tableName(migrate_config) successfully.
+
+2025-11-12 14:47:11,892 INFO Nacos Server is starting...
+
+2025-11-12 14:47:12,277 INFO ConfigQueryHandlerChain has been initialized successfully with chain: nacos
+
+2025-11-12 14:47:12,905 INFO Nacos Server is starting...
+
+2025-11-12 14:47:14,023 INFO Nacos Server is starting...
+
+2025-11-12 14:47:15,038 INFO Nacos Server is starting...
+
+2025-11-12 14:47:15,333 INFO Nacos-related cluster resource initialization
+
+2025-11-12 14:47:15,449 INFO Load com.alibaba.nacos.core.ability.RemoteAbilityInitializer for ServerAbilityInitializer
+
+2025-11-12 14:47:15,451 INFO Load com.alibaba.nacos.naming.ability.NamingAbilityInitializer for ServerAbilityInitializer
+
+2025-11-12 14:47:15,502 INFO The cluster resource is initialized
+
+2025-11-12 14:47:16,096 INFO Nacos Server is starting...
+
+2025-11-12 14:47:17,100 INFO Nacos Server is starting...
+
+2025-11-12 14:47:17,321 INFO Get configCompatible config from env, ConfigCompatibleConfig{namespaceCompatibleMode=true}
+
+2025-11-12 14:47:17,826 INFO [migrate] start migrate config namespace
+
+2025-11-12 14:47:17,855 INFO [migrate] migrating config namespace from empty to public, finished:0
+
+2025-11-12 14:47:17,928 INFO [migrate] syncing config namespace from empty to public, finished:0
+
+2025-11-12 14:47:17,940 INFO [migrate] syncing config namespace from public to empty, finished:0
+
+2025-11-12 14:47:17,988 INFO [migrate] migrating config gray namespace from empty to public, finished:0
+
+2025-11-12 14:47:18,004 INFO [migrate] syncing config gray namespace from empty to public, finished:0
+
+2025-11-12 14:47:18,012 INFO [migrate] syncing config gray namespace from public to empty, finished:0
+
+2025-11-12 14:47:18,024 INFO [migrate] finish migrate config namespacetotal time taken: 677 ms
+
+2025-11-12 14:47:18,106 INFO Nacos Server is starting...
+
+2025-11-12 14:47:18,265 INFO Get historyConfigCleaner config from env, activeHistoryConfigCleaner{ activeHistoryConfigCleaner=nacos}
+
+2025-11-12 14:47:19,007 INFO Ready to get current node abilities...
+
+2025-11-12 14:47:19,024 INFO Ready to initialize current node abilities, support modes: [CLUSTER_CLIENT, SERVER, SDK_CLIENT]
+
+2025-11-12 14:47:19,040 INFO Initialize current abilities finish...
+
+2025-11-12 14:47:19,049 INFO Ready to get current node abilities...
+
+2025-11-12 14:47:19,069 INFO Ready to initialize current node abilities, support modes: [SDK_CLIENT]
+
+2025-11-12 14:47:19,070 INFO Initialize current abilities finish...
+
+2025-11-12 14:47:19,102 INFO [AbilityControlManager] Successfully initialize AbilityControlManager
+
+2025-11-12 14:47:19,114 INFO Nacos Server is starting...
+
+2025-11-12 14:47:19,188 INFO Get NacosConsoleAuth config from env, NacosConsoleAuthConfig{authEnabled=true, nacosAuthSystemType='nacos'}
+
+2025-11-12 14:47:19,211 INFO Get NacosServerAdminAuth config from env, NacosServerAdminAuthConfig{authEnabled=true, nacosAuthSystemType='nacos', serverIdentityKey='2222', serverIdentityValue='2xxx'}
+
+2025-11-12 14:47:19,237 INFO Get NacosServerAuth config from env, NacosServerAuthConfig{authEnabled=false, nacosAuthSystemType='nacos', serverIdentityKey='2222', serverIdentityValue='2xxx', authPluginProperties={nacos={token.expire.seconds=18000, token.secret.key=VGhpc0lzTXlDdXN0b21TZWNyZXRLZXkwMTIzNDU2Nzg=, token.cache.enable=false}}}
+
+2025-11-12 14:47:19,274 INFO Not found ServerIdentityChecker implementation from SPI, use default.
+
+2025-11-12 14:47:20,157 INFO Nacos Server is starting...
+
+2025-11-12 14:47:21,168 INFO Nacos Server is starting...
+
+2025-11-12 14:47:22,186 INFO Nacos Server is starting...
+
+2025-11-12 14:47:23,192 INFO Nacos Server is starting...
+
+2025-11-12 14:47:24,203 INFO Nacos Server is starting...
+
+2025-11-12 14:47:25,260 INFO Nacos Server is starting...
+
+2025-11-12 14:47:26,303 INFO Nacos Server is starting...
+
+2025-11-12 14:47:27,423 INFO Nacos Server is starting...
+
+2025-11-12 14:47:44,435 INFO Starting NacosBootstrap v3.0.2 using Java 17.0.15 with PID 1 (/home/nacos/target/nacos-server.jar started by root in /home/nacos)
+
+2025-11-12 14:47:44,441 INFO The following 1 profile is active: "standalone"
+
+2025-11-12 14:47:45,520 INFO Nacos Server is starting...
+
+2025-11-12 14:47:46,458 INFO Load Nacos package exclude filter success, package prefix com.alibaba.nacos.config.server, filter com.alibaba.nacos.config.server.filter.ConfigEnabledFilter
+
+2025-11-12 14:47:46,473 INFO Load Nacos package exclude filter success, package prefix com.alibaba.nacos.naming, filter com.alibaba.nacos.naming.config.NamingEnabledFilter
+
+2025-11-12 14:47:46,483 INFO Load Nacos package exclude filter success, package prefix com.alibaba.nacos.istio, filter com.alibaba.nacos.istio.config.IstioEnabledFilter
+
+2025-11-12 14:47:46,653 INFO Nacos Server is starting...
+
+2025-11-12 14:47:47,641 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.bootstrap.NacosBootstrap to avoid duplicate scan
+
+2025-11-12 14:47:47,662 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.Nacos to avoid duplicate scan
+
+2025-11-12 14:47:47,669 INFO Nacos Server is starting...
+
+2025-11-12 14:47:47,676 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.console.NacosConsole to avoid duplicate scan
+
+2025-11-12 14:47:47,866 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.config.server.Config to avoid duplicate scan
+
+2025-11-12 14:47:48,672 INFO Nacos Server is starting...
+
+2025-11-12 14:47:48,735 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.naming.NamingApp to avoid duplicate scan
+
+2025-11-12 14:47:48,909 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.cmdb.CmdbApp to avoid duplicate scan
+
+2025-11-12 14:47:49,302 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.istio.IstioApp to avoid duplicate scan
+
+2025-11-12 14:47:49,312 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,320 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,322 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,325 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,329 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,332 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,333 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,333 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,333 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,333 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,334 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,334 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,335 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,335 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,336 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,336 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,337 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,344 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,345 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,347 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,352 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,353 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,354 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,355 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,355 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,356 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,358 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,361 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,364 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,367 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,370 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,371 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,374 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,376 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,378 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,379 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,380 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,380 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,382 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,382 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,382 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,383 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,383 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,383 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,383 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,394 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,395 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,397 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,397 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,397 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,398 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,398 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,404 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,419 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,420 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,423 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,427 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,440 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,456 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,457 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,458 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,468 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,503 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:47:49,694 INFO Nacos Server is starting...
+
+2025-11-12 14:47:50,788 INFO Nacos Server is starting...
+
+2025-11-12 14:47:51,871 INFO Nacos Server is starting...
+
+2025-11-12 14:47:52,904 INFO Nacos Server is starting...
+
+2025-11-12 14:47:53,906 INFO Nacos Server is starting...
+
+2025-11-12 14:47:54,926 INFO Nacos Server is starting...
+
+2025-11-12 14:48:14,369 INFO Starting NacosBootstrap v3.0.2 using Java 17.0.15 with PID 1 (/home/nacos/target/nacos-server.jar started by root in /home/nacos)
+
+2025-11-12 14:48:14,458 INFO The following 1 profile is active: "standalone"
+
+2025-11-12 14:48:15,277 INFO Nacos Server is starting...
+
+2025-11-12 14:48:15,777 INFO Load Nacos package exclude filter success, package prefix com.alibaba.nacos.config.server, filter com.alibaba.nacos.config.server.filter.ConfigEnabledFilter
+
+2025-11-12 14:48:15,782 INFO Load Nacos package exclude filter success, package prefix com.alibaba.nacos.naming, filter com.alibaba.nacos.naming.config.NamingEnabledFilter
+
+2025-11-12 14:48:15,784 INFO Load Nacos package exclude filter success, package prefix com.alibaba.nacos.istio, filter com.alibaba.nacos.istio.config.IstioEnabledFilter
+
+2025-11-12 14:48:16,299 INFO Nacos Server is starting...
+
+2025-11-12 14:48:16,718 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.bootstrap.NacosBootstrap to avoid duplicate scan
+
+2025-11-12 14:48:16,721 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.Nacos to avoid duplicate scan
+
+2025-11-12 14:48:16,755 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.console.NacosConsole to avoid duplicate scan
+
+2025-11-12 14:48:17,226 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.config.server.Config to avoid duplicate scan
+
+2025-11-12 14:48:17,314 INFO Nacos Server is starting...
+
+2025-11-12 14:48:18,137 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.naming.NamingApp to avoid duplicate scan
+
+2025-11-12 14:48:18,328 INFO Nacos Server is starting...
+
+2025-11-12 14:48:18,369 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.cmdb.CmdbApp to avoid duplicate scan
+
+2025-11-12 14:48:18,973 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.istio.IstioApp to avoid duplicate scan
+
+2025-11-12 14:48:18,977 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:18,979 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:18,982 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:18,985 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:18,987 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:18,989 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:18,990 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:18,991 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:18,992 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:18,993 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:18,994 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:18,994 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,001 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,029 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,056 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,060 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,071 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,073 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,082 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,097 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,107 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,115 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,120 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,123 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,127 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,129 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,132 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,139 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,140 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,147 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,160 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,162 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,162 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,164 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,165 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,166 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,167 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,167 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,170 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,173 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,179 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,182 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,186 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,190 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,191 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,193 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,196 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,198 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,201 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,201 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,201 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,202 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,203 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,204 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,205 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,210 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,214 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,215 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,218 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,219 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,239 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,243 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,246 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:48:19,371 INFO Nacos Server is starting...
+
+2025-11-12 14:48:20,563 INFO Nacos Server is starting...
+
+2025-11-12 14:48:21,584 INFO Nacos Server is starting...
+
+2025-11-12 14:48:22,873 INFO Nacos Server is starting...
+
+2025-11-12 14:48:23,266 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.prometheus.PrometheusApp to avoid duplicate scan
+
+2025-11-12 14:48:23,305 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.NacosServerWebApplication to avoid duplicate scan
+
+2025-11-12 14:48:23,314 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.mcpregistry.NacosMcpRegistry to avoid duplicate scan
+
+2025-11-12 14:48:23,921 INFO Nacos Server is starting...
+
+2025-11-12 14:48:24,930 INFO Nacos Server is starting...
+
+2025-11-12 14:48:25,932 INFO Nacos Server is starting...
+
+2025-11-12 14:48:26,935 INFO Nacos Server is starting...
+
+2025-11-12 14:48:27,939 INFO Nacos Server is starting...
+
+2025-11-12 14:48:28,947 INFO Nacos Server is starting...
+
+2025-11-12 14:48:29,954 INFO Nacos Server is starting...
+
+2025-11-12 14:48:30,959 INFO Nacos Server is starting...
+
+2025-11-12 14:48:31,972 INFO Nacos Server is starting...
+
+2025-11-12 14:48:32,990 INFO Nacos Server is starting...
+
+2025-11-12 14:48:33,615 INFO HikariPool-1 - Starting...
+
+2025-11-12 14:48:33,996 INFO Nacos Server is starting...
+
+2025-11-12 14:48:35,010 INFO Nacos Server is starting...
+
+2025-11-12 14:48:35,074 INFO HikariPool-1 - Start completed.
+
+2025-11-12 14:48:35,663 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigInfoBetaMapperByMySql) datasource(mysql) tableName(config_info_beta) successfully.
+
+2025-11-12 14:48:35,677 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigInfoMapperByMySql) datasource(mysql) tableName(config_info) successfully.
+
+2025-11-12 14:48:35,683 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigInfoTagMapperByMySql) datasource(mysql) tableName(config_info_tag) successfully.
+
+2025-11-12 14:48:35,684 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigInfoGrayMapperByMySql) datasource(mysql) tableName(config_info_gray) successfully.
+
+2025-11-12 14:48:35,684 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigTagsRelationMapperByMySql) datasource(mysql) tableName(config_tags_relation) successfully.
+
+2025-11-12 14:48:35,685 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.HistoryConfigInfoMapperByMySql) datasource(mysql) tableName(his_config_info) successfully.
+
+2025-11-12 14:48:35,686 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.TenantInfoMapperByMySql) datasource(mysql) tableName(tenant_info) successfully.
+
+2025-11-12 14:48:35,686 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.TenantCapacityMapperByMySql) datasource(mysql) tableName(tenant_capacity) successfully.
+
+2025-11-12 14:48:35,686 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.GroupCapacityMapperByMysql) datasource(mysql) tableName(group_capacity) successfully.
+
+2025-11-12 14:48:35,686 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigMigrateMapperByMysql) datasource(mysql) tableName(migrate_config) successfully.
+
+2025-11-12 14:48:35,687 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoBetaMapperByDerby) datasource(derby) tableName(config_info_beta) successfully.
+
+2025-11-12 14:48:35,690 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoMapperByDerby) datasource(derby) tableName(config_info) successfully.
+
+2025-11-12 14:48:35,690 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoTagMapperByDerby) datasource(derby) tableName(config_info_tag) successfully.
+
+2025-11-12 14:48:35,690 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoGrayMapperByDerby) datasource(derby) tableName(config_info_gray) successfully.
+
+2025-11-12 14:48:35,691 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoTagsRelationMapperByDerby) datasource(derby) tableName(config_tags_relation) successfully.
+
+2025-11-12 14:48:35,691 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.HistoryConfigInfoMapperByDerby) datasource(derby) tableName(his_config_info) successfully.
+
+2025-11-12 14:48:35,692 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.TenantInfoMapperByDerby) datasource(derby) tableName(tenant_info) successfully.
+
+2025-11-12 14:48:35,697 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.TenantCapacityMapperByDerby) datasource(derby) tableName(tenant_capacity) successfully.
+
+2025-11-12 14:48:35,701 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.GroupCapacityMapperByDerby) datasource(derby) tableName(group_capacity) successfully.
+
+2025-11-12 14:48:35,702 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigMigrateMapperByDerby) datasource(derby) tableName(migrate_config) successfully.
+
+2025-11-12 14:48:36,291 INFO Nacos Server is starting...
+
+2025-11-12 14:48:37,330 INFO Nacos Server is starting...
+
+2025-11-12 14:48:37,348 INFO ConfigQueryHandlerChain has been initialized successfully with chain: nacos
+
+2025-11-12 14:48:38,357 INFO Nacos Server is starting...
+
+2025-11-12 14:48:39,426 INFO Nacos Server is starting...
+
+2025-11-12 14:48:40,440 INFO Nacos Server is starting...
+
+2025-11-12 14:48:41,470 INFO Nacos Server is starting...
+
+2025-11-12 14:48:42,497 INFO Nacos Server is starting...
+
+2025-11-12 14:48:43,695 INFO Nacos Server is starting...
+
+2025-11-12 14:48:44,866 INFO Nacos Server is starting...
+
+2025-11-12 14:48:46,103 INFO Nacos Server is starting...
+
+2025-11-12 14:48:47,155 INFO Nacos Server is starting...
+
+2025-11-12 14:48:48,459 INFO Nacos Server is starting...
+
+2025-11-12 14:48:49,581 INFO Nacos Server is starting...
+
+2025-11-12 14:48:51,036 INFO Nacos Server is starting...
+
+2025-11-12 14:48:52,812 INFO Nacos Server is starting...
+
+2025-11-12 14:48:54,350 INFO Nacos Server is starting...
+
+2025-11-12 14:48:55,499 INFO Nacos Server is starting...
+
+2025-11-12 14:48:57,094 INFO Nacos Server is starting...
+
+2025-11-12 14:48:58,662 INFO Nacos Server is starting...
+
+2025-11-12 14:49:00,162 INFO Nacos Server is starting...
+
+2025-11-12 14:49:03,054 INFO Nacos Server is starting...
+
+2025-11-12 14:49:04,836 INFO Nacos Server is starting...
+
+2025-11-12 14:49:06,815 INFO Nacos Server is starting...
+
+2025-11-12 14:49:09,662 INFO Nacos Server is starting...
+
+2025-11-12 14:49:24,103 INFO Nacos Server is starting...
+
+2025-11-12 14:49:26,260 INFO Nacos Server is starting...
+
+2025-11-12 14:49:28,447 INFO Nacos Server is starting...
+
+2025-11-12 14:49:30,826 INFO Nacos Server is starting...
+
+2025-11-12 14:49:32,814 INFO Nacos Server is starting...
+
+2025-11-12 14:49:40,606 INFO Nacos Server is starting...
+
+2025-11-12 14:49:55,635 INFO Nacos Server is starting...
+
+2025-11-12 14:50:23,808 INFO Starting NacosBootstrap v3.0.2 using Java 17.0.15 with PID 1 (/home/nacos/target/nacos-server.jar started by root in /home/nacos)
+
+2025-11-12 14:50:23,812 INFO The following 1 profile is active: "standalone"
+
+2025-11-12 14:50:24,767 INFO Nacos Server is starting...
+
+2025-11-12 14:50:25,123 INFO Load Nacos package exclude filter success, package prefix com.alibaba.nacos.config.server, filter com.alibaba.nacos.config.server.filter.ConfigEnabledFilter
+
+2025-11-12 14:50:25,146 INFO Load Nacos package exclude filter success, package prefix com.alibaba.nacos.naming, filter com.alibaba.nacos.naming.config.NamingEnabledFilter
+
+2025-11-12 14:50:25,151 INFO Load Nacos package exclude filter success, package prefix com.alibaba.nacos.istio, filter com.alibaba.nacos.istio.config.IstioEnabledFilter
+
+2025-11-12 14:50:25,784 INFO Nacos Server is starting...
+
+2025-11-12 14:50:25,883 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.bootstrap.NacosBootstrap to avoid duplicate scan
+
+2025-11-12 14:50:25,886 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.Nacos to avoid duplicate scan
+
+2025-11-12 14:50:25,891 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.console.NacosConsole to avoid duplicate scan
+
+2025-11-12 14:50:26,158 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.config.server.Config to avoid duplicate scan
+
+2025-11-12 14:50:26,804 INFO Nacos Server is starting...
+
+2025-11-12 14:50:27,170 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.naming.NamingApp to avoid duplicate scan
+
+2025-11-12 14:50:27,299 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.cmdb.CmdbApp to avoid duplicate scan
+
+2025-11-12 14:50:27,475 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.istio.IstioApp to avoid duplicate scan
+
+2025-11-12 14:50:27,484 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,490 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,499 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,511 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,512 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,518 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,521 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,537 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,551 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,555 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,557 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,561 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,563 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,566 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,566 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,566 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,569 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,576 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,577 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,579 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,581 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,582 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,582 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,585 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,596 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,601 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,606 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,607 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,621 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,622 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,627 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,627 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,627 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,644 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,646 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,649 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,653 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,658 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,668 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,670 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,671 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,671 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,678 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,680 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,681 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,686 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,690 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,691 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,693 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,704 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,710 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,716 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,722 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,724 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,730 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,754 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,757 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,763 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,769 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,778 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,778 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,778 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,779 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:50:27,857 INFO Nacos Server is starting...
+
+2025-11-12 14:50:28,862 INFO Nacos Server is starting...
+
+2025-11-12 14:50:29,886 INFO Nacos Server is starting...
+
+2025-11-12 14:50:30,894 INFO Nacos Server is starting...
+
+2025-11-12 14:50:30,919 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.prometheus.PrometheusApp to avoid duplicate scan
+
+2025-11-12 14:50:30,943 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.NacosServerWebApplication to avoid duplicate scan
+
+2025-11-12 14:50:30,960 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.mcpregistry.NacosMcpRegistry to avoid duplicate scan
+
+2025-11-12 14:50:31,933 INFO Nacos Server is starting...
+
+2025-11-12 14:50:33,002 INFO Nacos Server is starting...
+
+2025-11-12 14:50:34,164 INFO Nacos Server is starting...
+
+2025-11-12 14:50:35,561 INFO Nacos Server is starting...
+
+2025-11-12 14:50:36,875 INFO Nacos Server is starting...
+
+2025-11-12 14:50:38,082 INFO Nacos Server is starting...
+
+2025-11-12 14:50:39,622 INFO Nacos Server is starting...
+
+2025-11-12 14:50:41,841 INFO Nacos Server is starting...
+
+2025-11-12 14:50:43,032 INFO Nacos Server is starting...
+
+2025-11-12 14:50:44,607 INFO Nacos Server is starting...
+
+2025-11-12 14:50:46,505 INFO Nacos Server is starting...
+
+2025-11-12 14:50:48,145 INFO Nacos Server is starting...
+
+2025-11-12 14:50:52,471 INFO Nacos Server is starting...
+
+2025-11-12 14:50:56,004 INFO Nacos Server is starting...
+
+2025-11-12 14:50:58,146 INFO Nacos Server is starting...
+
+2025-11-12 14:50:59,933 INFO Nacos Server is starting...
+
+2025-11-12 14:51:02,120 INFO Nacos Server is starting...
+
+2025-11-12 14:51:03,670 INFO Nacos Server is starting...
+
+2025-11-12 14:51:05,028 INFO Nacos Server is starting...
+
+2025-11-12 14:51:06,726 INFO Nacos Server is starting...
+
+2025-11-12 14:51:08,102 INFO Nacos Server is starting...
+
+2025-11-12 14:51:09,776 INFO Nacos Server is starting...
+
+2025-11-12 14:51:11,537 INFO Nacos Server is starting...
+
+2025-11-12 14:51:12,878 INFO Nacos Server is starting...
+
+2025-11-12 14:51:14,307 INFO Nacos Server is starting...
+
+2025-11-12 14:51:15,773 INFO Nacos Server is starting...
+
+2025-11-12 14:51:16,919 INFO Nacos Server is starting...
+
+2025-11-12 14:51:18,495 INFO Nacos Server is starting...
+
+2025-11-12 14:51:19,768 INFO Nacos Server is starting...
+
+2025-11-12 14:51:21,059 INFO Nacos Server is starting...
+
+2025-11-12 14:51:22,199 INFO Nacos Server is starting...
+
+2025-11-12 14:51:23,500 INFO Nacos Server is starting...
+
+2025-11-12 14:51:24,599 INFO Nacos Server is starting...
+
+2025-11-12 14:51:25,820 INFO Nacos Server is starting...
+
+2025-11-12 14:51:27,152 INFO Nacos Server is starting...
+
+2025-11-12 14:51:28,265 INFO Nacos Server is starting...
+
+2025-11-12 14:51:29,550 INFO Nacos Server is starting...
+
+2025-11-12 14:51:30,617 INFO Nacos Server is starting...
+
+2025-11-12 14:51:31,747 INFO Nacos Server is starting...
+
+2025-11-12 14:51:32,878 INFO Nacos Server is starting...
+
+2025-11-12 14:51:34,057 INFO Nacos Server is starting...
+
+2025-11-12 14:51:35,374 INFO Nacos Server is starting...
+
+2025-11-12 14:51:36,674 INFO Nacos Server is starting...
+
+2025-11-12 14:51:39,112 INFO Nacos Server is starting...
+
+2025-11-12 14:51:40,721 INFO Nacos Server is starting...
+
+2025-11-12 14:51:43,313 INFO Nacos Server is starting...
+
+2025-11-12 14:51:46,251 INFO Nacos Server is starting...
+
+2025-11-12 14:51:48,320 INFO Nacos Server is starting...
+
+2025-11-12 14:51:50,835 INFO Nacos Server is starting...
+
+2025-11-12 14:52:10,029 INFO Starting NacosBootstrap v3.0.2 using Java 17.0.15 with PID 1 (/home/nacos/target/nacos-server.jar started by root in /home/nacos)
+
+2025-11-12 14:52:10,042 INFO The following 1 profile is active: "standalone"
+
+2025-11-12 14:52:11,015 INFO Nacos Server is starting...
+
+2025-11-12 14:52:11,049 INFO Load Nacos package exclude filter success, package prefix com.alibaba.nacos.config.server, filter com.alibaba.nacos.config.server.filter.ConfigEnabledFilter
+
+2025-11-12 14:52:11,050 INFO Load Nacos package exclude filter success, package prefix com.alibaba.nacos.naming, filter com.alibaba.nacos.naming.config.NamingEnabledFilter
+
+2025-11-12 14:52:11,053 INFO Load Nacos package exclude filter success, package prefix com.alibaba.nacos.istio, filter com.alibaba.nacos.istio.config.IstioEnabledFilter
+
+2025-11-12 14:52:12,021 INFO Nacos Server is starting...
+
+2025-11-12 14:52:12,055 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.bootstrap.NacosBootstrap to avoid duplicate scan
+
+2025-11-12 14:52:12,077 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.Nacos to avoid duplicate scan
+
+2025-11-12 14:52:12,081 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.console.NacosConsole to avoid duplicate scan
+
+2025-11-12 14:52:12,477 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.config.server.Config to avoid duplicate scan
+
+2025-11-12 14:52:13,029 INFO Nacos Server is starting...
+
+2025-11-12 14:52:13,522 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.naming.NamingApp to avoid duplicate scan
+
+2025-11-12 14:52:13,699 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.cmdb.CmdbApp to avoid duplicate scan
+
+2025-11-12 14:52:14,043 INFO Nacos Server is starting...
+
+2025-11-12 14:52:14,513 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.istio.IstioApp to avoid duplicate scan
+
+2025-11-12 14:52:14,536 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,540 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,550 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,552 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,553 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,557 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,558 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,559 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,560 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,561 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,563 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,564 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,564 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,568 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,573 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,579 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,582 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,586 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,590 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,596 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,604 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,611 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,619 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,631 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,665 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,669 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,673 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,678 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,683 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,689 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,690 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,694 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,698 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,699 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:14,701 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,017 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,033 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,036 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,038 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,040 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,056 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,057 INFO Nacos Server is starting...
+
+2025-11-12 14:52:15,107 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,116 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,194 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,200 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,230 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,258 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,271 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,277 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,287 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,288 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,293 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,298 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,302 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,306 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,312 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,315 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,335 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,356 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,367 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,390 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,436 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:15,455 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-11-12 14:52:16,115 INFO Nacos Server is starting...
+
+2025-11-12 14:52:17,126 INFO Nacos Server is starting...
+
+2025-11-12 14:52:18,162 INFO Nacos Server is starting...
+
+2025-11-12 14:52:19,171 INFO Nacos Server is starting...
+
